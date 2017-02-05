@@ -1,6 +1,7 @@
 __pycache__/
+*.pickle
 
-html/
+html/*
 
 *.png
 *.jpeg
